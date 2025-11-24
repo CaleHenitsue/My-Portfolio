@@ -26,7 +26,7 @@ const ProjectsSection = ({ config }) => {
       liveUrl: "https://myexpensetracker2025.netlify.app/",
     },
     {
-      title: "PetalStars",
+      title: "PetalStars/Bookstore",
       description:
         "An interactive poetic web experience blending nature, technology, and floating particles animation.",
       gradient: "bg-gradient-to-br from-pink-400 to-purple-500",
