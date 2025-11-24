@@ -72,7 +72,7 @@ const ProjectsSection = ({ config }) => {
     },
 
     {
-      title: "Portfolio Website",
+      title: "My Portfolio Website",
       description:
         "This very portfolio! Built with React, Tailwind, animations, dark mode, EmailJS, and deployed on Vercel.",
       gradient: "bg-gradient-to-br from-indigo-500 to-purple-600",
