@@ -69,6 +69,7 @@ const ProjectsSection = ({ config }) => {
         </svg>
       ),
       githubUrl: "https://github.com/CaleHenitsue/mvc-todo",
+      liveUrl: "https://mvc-todo.netlify.app/",
     },
 
     {
