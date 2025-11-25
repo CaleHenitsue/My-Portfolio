@@ -25,11 +25,11 @@ const AboutSection = ({ config }) => {
             className="text-lg text-secondary leading-relaxed mb-8"
             style={{ fontSize: `${config.font_size * 1.125}px` }}
           >
-            When people ask why I chose this path, my answer is straightforward:
-            I love creating. Turning an idea into something real and useful
-            gives me energy and purpose. My long-term goal is to grow as a
-            full-stack developer who contributes to projects that connect
-            creativity with impact.
+            While I specialize in frontend work, I am actively preparing to
+            expand into backend development with Node.js and MongoDB. My
+            long-term goal is to grow into a full-stack developer who can build
+            reliable, scalable, and user-centered web applications from end to
+            end.
           </p>
         </div>
       </div>
